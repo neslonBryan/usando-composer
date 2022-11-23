@@ -1,0 +1,13 @@
+{
+    "name":"proveedor/componente",
+    "description": "Proyecto basico de TDD",
+    "authors": [
+        {
+            "name": "neslonbryan",
+            "email": "nelsonquispecarpio@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
